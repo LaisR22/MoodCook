@@ -13,21 +13,11 @@ Facilitar a escolha de receitas conforme o humor e restrições alimentares do u
 ## 🛠️ Tecnologias Utilizadas
 - **Front-end:** HTML, CSS, JavaScript
 
-## 📦 Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/moodcook.git
-   ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd moodcook
-   ```
-3. Abra o arquivo `index.html` no navegador
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📬 Contato
 Dúvidas ou sugestões? Entre em contato:
-- 📧 Email: seuemail@example.com
-- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+- 📧 Email: laisprogm@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/lais-ribeiro-606344324
