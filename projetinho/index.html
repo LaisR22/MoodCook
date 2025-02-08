@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoodCook - Receitas por Humor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🍳 MoodCook</h1>
+        <p>Encontre a receita perfeita para o seu humor!</p>
+    </header>
+
+    <div class="filters">
+        <select id="moodSelector">
+            <option value="">Selecione seu humor</option>
+            <option value="confortante">Confortante</option>
+            <option value="energizante">Energizante</option>
+            <option value="relaxar">Para Relaxar</option>
+            <option value="feliz">Feliz</option>
+            <option value="nostalgico">Nostálgico</option>
+        </select>
+
+        <div class="dietary-filters">
+            <button class="diet-btn" data-diet="todos">Todos</button>
+            <button class="diet-btn" data-diet="vegetariano">Vegetariano</button>
+            <button class="diet-btn" data-diet="vegano">Vegano</button>
+            <button class="diet-btn" data-diet="sem-gluten">Sem Glúten</button>
+        </div>
+    </div>
+
+    <div id="recipeContainer" class="recipe-grid"></div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
