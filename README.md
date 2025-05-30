@@ -21,3 +21,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 Dúvidas ou sugestões? Entre em contato:
 - 📧 Email: laisprogm@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/lais-ribeiro-606344324
+
+##  Desenvolvido por Lais Ribeiro 🧩
